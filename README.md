@@ -9,7 +9,7 @@
 
 *c++ is an old language.Let's maintain it together and make it more perfect!*
 ***
-**ps:编译器**
+**ps:compilers**
 
 *c++:https://c.runoob.com/compile/12
 
