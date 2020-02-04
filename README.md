@@ -11,7 +11,6 @@
 **What's your job?**
 
 *c++ is an old language.Let's maintain it together and make it more perfect!*
-***
 
 ## compilers
 
