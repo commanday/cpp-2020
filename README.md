@@ -1,6 +1,6 @@
 # cpp2020
 
-*A webpage for c++.
+*A webpage for c++.*
 # WELCOME!
 **Here are the notes:**
 
