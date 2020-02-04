@@ -17,14 +17,14 @@ int main( )
    Books Book1;         
    Books Book2;            
  
-   strcpy( Book1.title, "C++ 教程");
-   strcpy( Book1.author, "Runoob"); 
-   strcpy( Book1.subject, "编程语言");
+   strcpy( Book1.title, "Alan Walker");
+   strcpy( Book1.author, "Walker"); 
+   strcpy( Book1.subject, "Singer");
    Book1.book_id = 12345;
  
-   strcpy( Book2.title, "CSS 教程");
-   strcpy( Book2.author, "Runoob");
-   strcpy( Book2.subject, "前端技术");
+   strcpy( Book2.title, "Water");
+   strcpy( Book2.author, "Scientist");
+   strcpy( Book2.subject, "Life");
    Book2.book_id = 12346;
  
    printBook( Book1 );
