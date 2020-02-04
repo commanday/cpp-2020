@@ -20,7 +20,7 @@
 *html:https://c.runoob.com/front-end/61*
 
 ## others
-*This page was written by* __Markdown__
+*This page was written by* __Markdown__.
 
 __URL:https://github.com/commanday/cpp2020__
 
