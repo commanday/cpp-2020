@@ -5,7 +5,7 @@ int main()
 {
 	float Width = 3;
 	float Height = 2;
-	double dArea;
+	double Area;
  
 	cin >> Width >> Height;
 	Area = Width * Height;
