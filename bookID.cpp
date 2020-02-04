@@ -14,22 +14,15 @@ struct Books
  
 int main( )
 {
-   Books Book1;         
-   Books Book2;            
+   Books Book1;                  
  
    strcpy( Book1.title, "Alan Walker");
    strcpy( Book1.author, "Walker"); 
    strcpy( Book1.subject, "Singer");
    Book1.book_id = 12345;
  
-   strcpy( Book2.title, "Water");
-   strcpy( Book2.author, "Scientist");
-   strcpy( Book2.subject, "Life");
-   Book2.book_id = 12346;
  
    printBook( Book1 );
- 
-   printBook( Book2 );
  
    return 0;
 }
