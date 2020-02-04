@@ -18,8 +18,17 @@
 
 *html:https://c.runoob.com/front-end/61*
 
-## others
+## others(1)
 *This page was written by* __Markdown__.
 
 __URL:https://github.com/commanday/cpp2020__
+
+## others(2)
+__Author:__
+
+*commanday*
+
+__contributor:__
+
+*______*,*______*,*______*
 
