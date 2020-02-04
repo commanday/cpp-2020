@@ -3,13 +3,13 @@ using namespace std;
  
 int main()
 {
-	float fWidth = 3;
-	float fHeight = 2;
+	float Width = 3;
+	float Height = 2;
 	double dArea;
  
-	cin >> fWidth >> fHeight;
-	dArea = fWidth * fHeight;
+	cin >> Width >> Height;
+	Area = Width * Height;
  
-	cout << "End：" << dArea << endl;
+	cout << "End：" << Area << endl;
 	return 0;
 }
