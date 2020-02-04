@@ -1,7 +1,7 @@
-# cpp2020
+## cpp2020
 
 *A webpage for c++.*
-# WELCOME!
+## WELCOME!
 **Here are the notes:**
 
 *First,we welcome you to join us!*
@@ -12,7 +12,8 @@
 
 *c++ is an old language.Let's maintain it together and make it more perfect!*
 ***
-**ps:compilers**
+
+## ps:compilers
 
 *c++:https://c.runoob.com/compile/12*
 
