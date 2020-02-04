@@ -12,18 +12,18 @@
 
 *c++ is an old language.Let's maintain it together and make it more perfect!*
 
-## compilers
+## Compilers
 
 *c++:https://c.runoob.com/compile/12*
 
 *html:https://c.runoob.com/front-end/61*
 
-## others(1)
+## Others
 *This page was written by* __Markdown__.
 
 __URL:https://github.com/commanday/cpp2020__
 
-## others(2)
+## Name list
 __Author:__
 
 *commanday*
