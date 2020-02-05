@@ -23,11 +23,7 @@
 
 __URL:https://github.com/commanday/cpp2020__
 
-## Name list
-__Author:__
+## Author
 
 *commanday*
 
-__contributor:__
-
-*______*,*______*,*______*
