@@ -10,7 +10,7 @@
 ***
 **What's your job?**
 
-*C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.*
+*C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation. Let's make it more perfect!*
 
 ## Compilers
 
