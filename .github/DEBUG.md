@@ -5,4 +5,4 @@
 
 *update2:5/2/2020*
 ***
-__Bug:definition error__
+__Bug1:definition error(solved)__
