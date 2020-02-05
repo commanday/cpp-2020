@@ -10,7 +10,7 @@
 ***
 **What's your job?**
 
-*C++ is a general purpose and object-oriented programming language.Let's maintain it together and make it more perfect!*
+*C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.*
 
 ## Compilers
 
