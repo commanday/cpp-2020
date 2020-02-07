@@ -4,7 +4,11 @@
 *update1:4/2/2020*
 
 *update2:5/2/2020*
+
+*update3:7/2/2020*
 ***
 __Bug1:definition error(solved)__
 
-__Bug2:suffix name__
+__Bug2:suffix name(solved)__
+
+__Bug3:HTML：background_color(solved)__
