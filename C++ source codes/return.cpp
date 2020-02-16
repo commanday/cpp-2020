@@ -4,7 +4,7 @@ int main ()
 {
    for( ; ; )
    {
-      printf("return.\n");
+      printf("GitHub!\n");
    }
    return 0;
 }
