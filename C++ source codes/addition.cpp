@@ -6,7 +6,7 @@ int main()
     int n, sum = 0;
     n = 3;
  
-    cout << "Number: ";
+    cout << "End: ";
     cin >> n;
  
     for (int i = 1; i <= n; ++i) {
