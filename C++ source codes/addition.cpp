@@ -6,7 +6,7 @@ int main()
     int n, sum = 0;
     n = 3;
  
-    cout << "输入一个正整数: ";
+    cout << "Number: ";
     cin >> n;
  
     for (int i = 1; i <= n; ++i) {
