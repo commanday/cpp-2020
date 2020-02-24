@@ -1,5 +1,8 @@
 ## Source Codes
-notice：
+Notice:
+Please change the numbers by yourself:
 ```java
-please change the numbers by yourself：
+int n1, n2;
+n1 = ?;
+n2 = ?;
 ```
