@@ -7,7 +7,7 @@
 ## Compilers
 | compiler | URL |
 | ------ | ------ |
-| [c++](htttps://c.runoob.com/compile/12) | htttps://c.runoob.com/compile/12 |
+| [c++](https://c.runoob.com/compile/12) | https://c.runoob.com/compile/12 |
 | [html](https://c.runoob.com/front-end/61) | https://c.runoob.com/front-end/61 |
 ## Others
 __URL:https://github.com/commanday/cpp2020__
