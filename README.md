@@ -11,8 +11,6 @@
 
 [html](https://c.runoob.com/front-end/61)
 ## Others
-*This page was written by* __Markdown__.
-
 __URL:https://github.com/commanday/cpp2020__
 ## Author
 
