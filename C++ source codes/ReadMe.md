@@ -1,5 +1,4 @@
-## Source Codes
-Notice:
+## Notice
 Please change the numbers by yourself:
 ```java
 int n1, n2;
