@@ -12,5 +12,5 @@
 ## Others
 __URL:https://github.com/commanday/cpp2020__
 ## Author
-[*commanday](https://github.com/commanday)
+[commanday](https://github.com/commanday)
 
