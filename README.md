@@ -1,6 +1,6 @@
-## cpp2020
+## Cpp2020
 *A webpage for c++.*
-## WELCOME!
+## WELCOME
 **What's your job?**
 </br>
 *C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation. Let's maintain it together and make it more perfect!*
