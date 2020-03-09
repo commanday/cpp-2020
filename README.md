@@ -1,5 +1,5 @@
-![DeBugs](https://github.com/commanday/cpp2020/blob/master/.github/DEBUG.md)
-## Cpp2020
+[![Discord](https://discordapp.com/api/guilds/135634590575493120/widget.png)](https://scarsz.me/discord)
+## cpp2020
 *A webpage for c++.*
 ## WELCOME
 **What's your job?**
