@@ -1,4 +1,4 @@
-[![Latest release](https://img.shields.io/github/release/DiscordSRV/DiscordSRV.svg)](https://github.com/DiscordSRV/DiscordSRV/releases/latest)
+[![Latest release](https://img.shields.io/github/release/DiscordSRV/DiscordSRV.svg)]
 ## Cpp2020
 *A webpage for c++.*
 ## WELCOME
