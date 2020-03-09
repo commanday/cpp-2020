@@ -1,4 +1,4 @@
-[![Discord](https://discordapp.com/api/guilds/135634590575493120/widget.png)](https://scarsz.me/discord)
+[![Discord](https://discordapp.com/api/guilds/135634590575493120/widget.png)](https://github.com/commanday/cpp2020/blob/master/README.md)
 ## cpp2020
 *A webpage for c++.*
 ## WELCOME
