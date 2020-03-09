@@ -1,4 +1,4 @@
-![DeBugs](https://img.shields.io/github/release/DiscordSRV/DiscordSRV.svg)
+![DeBugs](https://github.com/commanday/cpp2020/blob/master/.github/DEBUG.md)
 ## Cpp2020
 *A webpage for c++.*
 ## WELCOME
