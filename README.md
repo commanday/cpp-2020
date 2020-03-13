@@ -12,7 +12,7 @@
 ## Compilers
 | Compiler | URL |
 | ------ | ------ |
-| [Cpp](https://c.runoob.com/compile/12) | https://c.runoob.com/compile/12 |
+| [C++](https://c.runoob.com/compile/12) | https://c.runoob.com/compile/12 |
 | [HTML](https://c.runoob.com/front-end/61) | https://c.runoob.com/front-end/61 |
 ## Others
 __Author
