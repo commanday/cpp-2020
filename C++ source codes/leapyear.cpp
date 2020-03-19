@@ -4,21 +4,21 @@ int main()
 {
     int year;
     year = 2000;
-    cout << "输入年份: ";
+    cout << "Year: ";
     cin >> year; 
     if (year % 4 == 0)
     {
         if (year % 100 == 0)
         {
             if (year % 400 == 0)
-                cout << year << " 是闰年";
+                cout << year << ",yes";
             else
-                cout << year << " 不是闰年";
+                cout << year << ",no";
         }
         else
-            cout << year << " 是闰年";
+            cout << year << ",yes";
     }
     else
-        cout << year << " 不是闰年"; 
+        cout << year << ",no"; 
     return 0;
 }
