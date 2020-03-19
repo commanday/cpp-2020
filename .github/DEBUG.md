@@ -19,4 +19,4 @@ __Bug3:HTML：background_color(solved)__
 
 __Bug3:Readme.md(solved)__
 
-__Bug4:Translate into English__
+__Bug4:Translate into English(solved)__
